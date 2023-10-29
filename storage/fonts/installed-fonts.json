@@ -1,0 +1,14 @@
+{
+    "nunito": {
+        "normal": "nunito_normal_586f3f8a461df5c8635a870033365d5e"
+    },
+    "roboto": {
+        "normal": "roboto_normal_7bc701b343c10631f60048716b96e4f7"
+    },
+    "noto sans": {
+        "normal": "noto_sans_normal_554b8e5df7477bea89da66d03a773faf"
+    },
+    "amiri": {
+        "normal": "amiri_normal_b1698c38b92ac57a6621cfaad4293641"
+    }
+}
